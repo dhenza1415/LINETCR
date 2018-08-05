@@ -25,8 +25,8 @@ Di C9 SERVER/ VPS :
 - `sudo pip3 install wikipedia`
 - `sudo pip3 install tweepy`
 - `sudo pip3 install youtube_dl`
-- `git clone https://github.com/arifistifik/2019`
-- `cd 2019`
+- `git clone https://github.com/dhenza1415/LINETCR`
+- `cd LINETCR`
 - `python antijs.py`
 
 INSTALL Di TERMUX :
@@ -46,8 +46,8 @@ INSTALL Di TERMUX :
 - `pip3 install wikipedia`
 - `pip3 install youtube_dl`
 - `pip3 install tweepy`
-- `git clone https://github.com/SILENT/2019`
-- `cd 2019`
+- `git clone https://github.com/dhenza1415/LINETCR
+- `cd LINETCR`
 - `python3 Silentpy3.py`
 
 Cara Menjalankan Bot Kembali :
