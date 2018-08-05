@@ -25,7 +25,7 @@ Di C9 SERVER/ VPS :
 - `sudo pip3 install wikipedia`
 - `sudo pip3 install tweepy`
 - `sudo pip3 install youtube_dl`
-- `git clone https://github.com/dhenza1415/LINETCR`
+- `git clone https://github.com/dhenza1415/LINETCR
 - `cd LINETCR`
 - `python antijs.py`
 
