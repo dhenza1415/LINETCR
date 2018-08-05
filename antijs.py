@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- 
-import ARIFISTIFIK
-from ARIFISTIFIK import *
+import SILENT
+from SILENT import *
 from akad.ttypes import *
 from multiprocessing import Pool, Process
 from time import sleep
